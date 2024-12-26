@@ -26,7 +26,7 @@ default_texture_mag_filter = nearest
 game_binding = /builtins/input/all.input_bindingc
 
 [library]
-include_dirs = /horri-fold
+include_dirs = horri-fold
 
 [html5]
 show_console_banner = 0
