@@ -1,4 +1,5 @@
 local camera = require "orthographic.camera"
+camera.ORTHOGRAPHIC_RENDER_SCRIPT_USED = true
 
 local IDENTITY = vmath.matrix4()
 
